@@ -1,4 +1,5 @@
 import React from 'react'
+import "./Korsina.css";
 
 const Korsina = () => {
   return (
